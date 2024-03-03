@@ -18,10 +18,10 @@ The implemented LSTM model utilizes historical stock market data to make predict
 To run the code in this repository, ensure you have the following:
 
 - Python 3.x
-- TensorFlow
 - Pandas
 - Numpy
 - Matplotlib
+- LSTM
 
 # Usage
 
